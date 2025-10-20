@@ -25,6 +25,6 @@ The robot arm will be constructed out of 3D-printed parts we're currently design
 Current Goals:
 ## Build and design the robot arm
 The robot arm will look something like this (but we'll put our own spin on it)
-![alt text](image_url_or_path "optional title")
+![Sample Robot Arm]()
 
 
