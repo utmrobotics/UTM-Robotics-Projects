@@ -20,7 +20,7 @@ Here you’ll find our current and past projects, along with a **Getting Started
 
 ### Past Projects
 - **Robot Dog** – A 3D-printed quadruped robot built using open-source designs by [Aaed Musa](https://www.instructables.com/3D-Printed-Robot-Dog/). Here's a video of ours walking!
-[Cool Robot Dog]([https://www.instructables.com/3D-Printed-Robot-Dog/](https://www.youtube.com/watch?v=-VGy4DMVPYc))
+[Cool Robot Dog](https://www.youtube.com/watch?v=-VGy4DMVPYc)
 
 ![Robot Dog](robot_dog/robot_dog.png)
 
