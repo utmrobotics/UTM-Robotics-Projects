@@ -7,7 +7,13 @@ Here you’ll find our current and past projects, along with a **Getting Started
 
 ### Projects in Progress
 - **Robot Arm** – A robotic manipulator we're desiging and constructing from scratch! Our goal is to integrate **computer vision** for object detection in the near future.
+
+![Sample Robot Arm](robot_arm/sample_photos/robot_arm_sample.png)
+
 - **Roomba** – Programming the **Kobuki TurtleBot** robots (a Roomba-like mobile robot) to perform autonomous **navigation** and **mapping** tasks with a camera and on-board odometry.
+
+![Kobuki TurtleBot](roomba/kobuki.png)
+
 - **IR Line Follower** – A fully 3D-printable infrared line-following robot that we’re designing and building from scratch! Our goal is to create a simple, reproducible design that allows members to print, assemble, program, and race their own versions.
 
 ---
@@ -15,6 +21,8 @@ Here you’ll find our current and past projects, along with a **Getting Started
 ### Past Projects
 - **Robot Dog** – A 3D-printed quadruped robot built using open-source designs by [Aaed Musa](https://www.instructables.com/3D-Printed-Robot-Dog/). Here's a video of ours walking!
 [Cool Robot Dog]([https://www.instructables.com/3D-Printed-Robot-Dog/](https://www.youtube.com/watch?v=-VGy4DMVPYc))
+
+![Robot Dog](robot_dog/robot_dog.png)
 
 ---
 
@@ -64,8 +72,8 @@ We’ve completed the design of the robot’s base, including a custom bearing s
 ---
 
 ### The Vision
-- The robot arm will resemble the one below, but with our own custom design and larger scale.  
-  ![Sample Robot Arm](robot_arm/sample_photos/robot_arm_sample.png)
+- The robot arm will resemble the one below, but with our own custom design and larger scale.
+![Sample Robot Arm](robot_arm/sample_photos/robot_arm_sample.png)
 - We’re aiming to get smooth motion by designing **custom bearings** and integrating skateboard bearings into the joints.
 - The software will involve robotics fundamentals, such as **inverse kinematics**, to control the arm.
 - The end goal is to enable the robot to perform **autonomous** tasks such as the examples above.
