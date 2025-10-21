@@ -6,7 +6,7 @@ Here you’ll find our current and past projects, along with a **Getting Started
 ---
 
 ### Projects in Progress
-- **Robot Arm** – A robotic manipulator we're desiging and constructing from scratch! Our goal is to integrate **computer vision** for object detection in the near future.
+- **Robot Arm** – A robotic manipulator we're desiging and constructing from scratch! Our goal is to integrate **computer vision** for object detection in the near future. Below I've placed an image of what our robot arm might look like!
 
 ![Sample Robot Arm](robot_arm/sample_photos/robot_arm_sample.png)
 
