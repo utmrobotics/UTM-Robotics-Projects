@@ -13,7 +13,8 @@ Here you’ll find our current and past projects, along with a **Getting Started
 ---
 
 ### Past Projects
-- **Robot Dog** – A 3D-printed quadruped robot built using open-source designs by [Aaed Musa](https://www.instructables.com/3D-Printed-Robot-Dog/).
+- **Robot Dog** – A 3D-printed quadruped robot built using open-source designs by [Aaed Musa](https://www.instructables.com/3D-Printed-Robot-Dog/). Here's a video of ours walking!
+[Cool Robot Dog]([https://www.instructables.com/3D-Printed-Robot-Dog/](https://www.youtube.com/watch?v=-VGy4DMVPYc))
 
 ---
 
@@ -84,10 +85,12 @@ The **Roomba** project focuses on programming the **Kobuki TurtleBot** (a Roomba
 
 These robots offer a fantastic platform for exploring robotics concepts such as **navigation**, **mapping**, and **autonomous decision-making**. One of our main goals is to implement **visual SLAM**, allowing the robots to map and navigate their environment in real time.
 
+![Kobuki TurtleBot](roomba/kobuki.png)
+
 ---
 
 **Progress:** [10%]  
-We’ve successfully completed the setup of the **ROS** libraries used to communicate with the robots (this took us a while to figure out!). The Turtlebots can now be run remotely via a **Raspberry Pi**.  
+We’ve successfully completed the setup of the **ROS** libraries used to communicate with the robots (this took us a while to figure out!). The Turtlebots can now be run remotely on a **Raspberry Pi**.  
 
 **What’s next?** Developing advanced functionality such as **autonomous navigation**, **path planning**, and **environment mapping** using **ROS** frameworks and computer vision tools.
 
@@ -123,13 +126,13 @@ Eventually, we hope to turn this into a **fun community event**, where participa
 
 ---
 
-**Progress:** [0%]  
-We have yet to start on this project!
+**Progress:** [25%]  
+As of now, we have implemented the code for the robot.
 
 **What’s next?**  
 - Designing the chassis in **Fusion 360**
 - Assembling the electronics and wiring up the **IR sensor array**  
-- Implementing and tuning the **PID control system**
+- Tuning the **PID control algorithm**
 - Setting up a **race track** for testing and competitions!
 
 ---
@@ -142,7 +145,7 @@ We have yet to start on this project!
 ---
 
 ### The Vision
-- Design a neat and efficient robot capable of accurately following a black line using IR sensors.  
+- Design a neat robot capable of accurately following a black line using IR sensors.  
 - Implement a well-tuned **PID controller** to ensure smooth and responsive motion.  
 - Create a fun, interactive **racing event** where participants can test their robots and compete.  
 
